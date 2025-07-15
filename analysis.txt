@@ -1,2 +1,60 @@
-🔹 Long segment (25.8s) at 0.00: Alright now let's go.
-⭐ Keyword 'now' at 0.00: Alright now let's go.
+[0.00] Long/Detailed segment (12.8s, 13 words): You're in the middle of a project when suddenly moving forward seems impossible.
+[12.80] Keyword 'step' detected: Maybe you don't know what the next step is.
+[15.08] Long/Detailed segment (5.4s, 14 words): Or perhaps you've faced setbacks and you're starting to think, what's even the point?
+[20.44] Keyword 'stuck' detected: Many of us have experienced feeling stuck.
+[23.44] Long/Detailed segment (6.0s, 17 words): It can happen when tackling something as simple as a term paper, or as monumental as social
+[32.38] Keyword 'stuck' detected: So are there ways to get unstuck?
+[35.24] Long/Detailed segment (5.3s, 14 words): People often report feeling highly motivated at the start and end of a project.
+[40.58] Keyword 'but' detected: But the middle can feel untethered.
+[43.94] Keyword 'stuck' detected: Psychologists call this the stuck-in-the-middle effect, and it's thought to be caused by
+[47.82] Long/Detailed segment (4.3s, 13 words): a shift in perspective that happens as you move closer to your goals.
+[52.10] Long/Detailed segment (5.1s, 16 words): When you start working towards something, any progress can feel like a win, as we tend
+[60.02] Keyword 'so' detected: For example, when someone starts training for a marathon,
+[63.06] Long/Detailed segment (4.0s, 8 words): accomplishing even a short jog can feel motivating.
+[67.10] Keyword 'but' detected: But the longer you work on something,
+[71.94] Keyword 'goal' detected: to your end goal.
+[81.82] Keyword 'motivation' detected: A simple way to avoid these motivational sinkholes
+[87.06] Keyword 'goal' detected: more achievable sub-goals.
+[93.34] Keyword 'progress' detected: to compare your progress to.
+[95.10] Keyword 'so' detected: It also creates more opportunities
+[99.72] Keyword 'important' detected: This is especially important
+[101.82] Keyword 'goal' detected: when working towards bigger societal goals.
+[109.44] Keyword 'action' detected: No single action or person is likely to solve them.
+[112.84] Keyword 'goal' detected: So if you only focus on the end goal,
+[115.36] Keyword 'so' detected: it's easy to feel personally powerless.
+[118.66] Keyword 'problem' detected: And the enormity of these problems
+[121.00] Keyword 'so' detected: may be why so many people,
+[125.52] Keyword 'progress' detected: think that progress is impossible,
+[130.28] Long/Detailed segment (4.3s, 9 words): In fact, one 2021 global survey of young people
+[134.58] Long/Detailed segment (4.2s, 8 words): found that over half believe humanity is doomed.
+[138.80] Keyword 'but' detected: But despite these obstacles,
+[140.80] Keyword 'so' detected: some people do manage to stay motivated,
+[144.12] Keyword 'stuck' detected: engaged and unstuck.
+[146.56] Keyword 'so' detected: So how do they do it?
+[157.44] Keyword 'change' detected: who feel the most alarmed about climate change,
+[160.38] Keyword 'action' detected: only about a third take regular climate action.
+[164.04] Long/Detailed segment (4.2s, 10 words): However, a unifying factor among those who do take action
+[168.26] Keyword 'so' detected: is the confidence that their personal involvement
+[175.32] Long/Detailed segment (4.1s, 11 words): The long history of social progress proves that change is possible,
+[179.44] Long/Detailed segment (4.4s, 8 words): and individual actions, whether it's volunteering, voting, protesting,
+[183.88] Keyword 'goal' detected: or personally contributing to a communal goal,
+[186.60] Keyword 'key' detected: are key to building the collective momentum
+[196.60] Long/Detailed segment (4.7s, 12 words): Moral outrage or anger can help us focus on what's at stake.
+[201.28] Long/Detailed segment (4.6s, 11 words): And when it's correctly harnessed, outrage can be a powerful unifier.
+[208.40] Long/Detailed segment (4.9s, 11 words): shared anger over systemic racism, injustice, and violence against black people
+[213.26] Long/Detailed segment (4.8s, 11 words): galvanized diverse communities to work together in the fight for equality.
+[221.42] Long/Detailed segment (4.6s, 10 words): is essential to building longevity and resilience in any movement.
+[227.14] Long/Detailed segment (4.5s, 13 words): Thinking about how you can apply your own unique perspective, knowledge, and expertise
+[231.64] Keyword 'change' detected: to promoting change can be helpful.
+[234.44] Keyword 'community' detected: And finding community has plenty of other benefits.
+[237.96] Long/Detailed segment (4.4s, 14 words): Just witnessing other people at work has been shown to motivate personal action, creating
+[245.30] Keyword 'problem' detected: Collaboration can help you better problem solve when you're unsure what the next step
+[248.92] Long/Detailed segment (5.5s, 17 words): is, and the support and encouragement of others can serve as a source of inspiration and joy
+[254.44] Keyword 'stuck' detected: if you're feeling exhausted, defeated, or stuck.
+[258.28] Long/Detailed segment (5.2s, 14 words): The path to conquering any goal is long and bound to hit sticking points.
+[263.48] Keyword 'action' detected: Often the best way to get unstuck is just to take any action,
+[270.18] Long/Detailed segment (4.5s, 11 words): Progress starts with writing that next sentence, running that extra mile,
+[274.72] Long/Detailed segment (5.1s, 10 words): or even casting that boat to build a better future.
+[279.84] Keyword 'goal' detected: Need an extra push to get unstuck with your climate goals?
+[284.38] Long/Detailed segment (5.3s, 13 words): Countdown is a global initiative aimed at turning innovative solutions into planet-saving realities.
+[289.70] Long/Detailed segment (5.0s, 13 words): Learn how you can be part of building a cleaner future at countdown.ted.com.
