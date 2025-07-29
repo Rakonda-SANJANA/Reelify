@@ -2,11 +2,11 @@ from moviepy.editor import VideoFileClip, concatenate_videoclips, AudioFileClip,
 import os
 
 # === USER CONFIGURATION ===
-VIDEO_PATH = "videoplayback.mp4"         # Your full 5-min video file
-SEGMENTS_FILE = "segments.txt"         # Your meaningful segments file (start end format)
+VIDEO_PATH = "videoplayback.mp4"         
+SEGMENTS_FILE = "segments.txt"         
 OUTPUT_VIDEO = "summary_reel.mp4"
-TARGET_DURATION = 60                   # Duration of the summary reel in seconds
-FADE_DURATION = 0.5                    # Smooth in/out fade
+TARGET_DURATION = 60                   
+FADE_DURATION = 0.5                    
 
 # === Load Segments ===
 def load_segments(path):
@@ -74,7 +74,7 @@ def create_summary_reel():
     # Export
     print("Rendering summary reel...")
     final_clip.write_videofile(OUTPUT_VIDEO, codec="libx264", audio_codec="aac", fps=30)
-    print("✅ Summary reel saved as:", OUTPUT_VIDEO)
+    print("Summary reel saved as:", OUTPUT_VIDEO)
 
 # === Run ===
 if __name__ == "__main__":
